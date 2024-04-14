@@ -1,12 +1,12 @@
 ---
-title : Simple Automatic subtitles in your videos using [OpenAI's Whisper](https://openai.com/blog/whisper)
+title : Generate subtitles to your videos using OpenAI's Whisper
 date: 2024-04-12 12:00:00 +0300
 categories: [cli,AI,video]
 tags: [openai, subtitles, cli, wsl]
 ---
 
 
-# Simple Automatic subtitles in your videos using [OpenAI's Whisper](https://openai.com/blog/whisper)
+There are services where you can but subtitling of videos, but what to do if you have, say, 500 videos that you want to subtitle to meet accessibility requirements. The easiest way and the most efficient way is to subtitle the videos locally.
 
 
 ### How to install to linux (WSL)
